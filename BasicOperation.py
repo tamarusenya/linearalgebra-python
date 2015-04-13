@@ -1,6 +1,8 @@
 # -*- coding: utf-8 -*-
 
 from scipy import linalg
+
+#2×2行列
 a = np.array([[1,2],[3,4]])
 
 #行列式 determinant
